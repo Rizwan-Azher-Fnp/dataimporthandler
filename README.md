@@ -18,6 +18,7 @@ The success of this project relies on contributions from the broader community t
 * Add repository:
 
     `bin/solr package add-repo data-import-handler "https://raw.githubusercontent.com/searchscale/dataimporthandler/master/repo/"`
+     bin/solr package add-repo data-import-handler "https://raw.githubusercontent.com/Rizwan-Azher-Fnp/dataimporthandler/master/repo/"
 
 * See available packages:
 
